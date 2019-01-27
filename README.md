@@ -1,4 +1,4 @@
-# libgostcoin-jni
+# Pending: libgostcoin-jni
 
 ## Project status: Inception
 ## WARNING: This code currently doesn't work with GostCoin: it works with BTC only.
